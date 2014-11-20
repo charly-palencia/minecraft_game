@@ -1,0 +1,17 @@
+[
+{
+"modid": "koombeamod01",
+"name": "Minecraft Forge Koombea Test",
+"description": "TODO",
+"version": "0.0.1",
+"url": "www.test.com",
+"authorList": [
+"chalien"
+],
+"credits": "Thank you to all the wonderful coders who are using these tutorials!",
+"logoFile": "",
+"screenshots": [],
+"dependencies": ["forge-10.13.2.1230"],
+"mcversion": "1.7.10"
+}
+]
